@@ -66,7 +66,7 @@ Interact with the web server using cURL:
 Browse to http://localhost:15672/#/queues/%2F/test_queue using the credentials guest:guest to view the queue and see 
 the 'hello world' message added to the queue.
 
-## Running the integration tests
+### Running the integration tests
 
 To run the integration tests making use of testcontainers-python, activate the virtual environment and run `behave`:
 
